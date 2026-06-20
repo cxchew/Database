@@ -28,14 +28,6 @@ The core focus of this course is understanding how to model complex real-world d
 
 ---
 
-## 👥 Course Team Profile & Collaborators
-
-### 🏆 Alternative Assessment Team (Group Name: Tech EcoPioneer)
-* **Chew Chiu Xian** (A23CS0061) — *Portfolio Owner & Savings Module Specialist*
-* *Collaborating members of Tech EcoPioneer*
-
----
-
 ## 🎓 Course Metadata
 
 * **Course:** Database (SECP2523 - Section 02)
