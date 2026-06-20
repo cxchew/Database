@@ -15,7 +15,7 @@ This assignment investigated the mathematical and structural principles of data 
 
 *Figure 2: Second Normalization Table*
 
-<img src="images/3nf.png" width="600" alt="Third Normalization Table">
+<img src="images/3nf.png" width="400" alt="Third Normalization Table">
 
 *Figure 3: Third Normalization Table*
 
